@@ -1,2 +1,4 @@
 # Data-Science-in-R
-Common Data Science challenges solved by using R
+In this repository you will find common Data Science challenges which I came across with and solved by using R. 
+
+  · AAAA
