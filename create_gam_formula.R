@@ -2,7 +2,7 @@
 
 ## Example: 
 ## The following line will create a formula (including the target variable) for
-## all predictors fit with 5th dimensional gaussian processes smoothing splines.
+## all predictors (in dataframe 'data') fit with 5th dimensional gaussian processes smoothing splines.
 
 ## gam.formula <- 
 ##   create_gam_formula(data['target.variable'], data[!colnames(data) %in% 'target.variable'], 5, 'gp')
